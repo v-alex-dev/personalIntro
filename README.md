@@ -29,3 +29,9 @@
 		- SEA OF THIEVES (Si des marins veulent me rejoindre ?)
 
 ### Vous pouvez toujours comptez sur moi quand ...
+
+Vous êtes confrontés à un problème technique. Lorsque j'ai commencé cette aventure, il y a un an. Une personne m'a aidé à comprendre ce que je faisais et grâce à lui, je n'ai pas lâché mes formations. Si je peux faire pareil, j'en serais ravi !
+
+
+## Histoire drôle
+
