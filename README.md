@@ -18,7 +18,6 @@
 **Je dirai même plus pour les ananas :**
 <br>
 ![gif](https://media.giphy.com/media/vyTnNTrs3wqQ0UIvwE/giphy.gif)
-<img src="https://media.giphy.com/media/vyTnNTrs3wqQ0UIvwE/giphy.gif" alt="gif no">
 
 
 ## Hobbies
