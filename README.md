@@ -11,7 +11,7 @@
 |           |                  |               |                     |
 | --------- | ---------------- | ------------- | ------------------- |
 | **Anniversaire** | **Couleur favorite** | **Plat favorit** | **Ananas sur la pizza** |
-| 08/02     | #915FC4                | Sushis             | [] |
+| 08/02     | <span style="color:#915FC4">Mauve moyen</span> | Sushis             | [] |
 
 ---
 
