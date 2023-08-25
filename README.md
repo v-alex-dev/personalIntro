@@ -6,12 +6,14 @@
 
 ### Pourquoi faire simple quand on peut faire compliqué !
 
-<----------------------------------------------->
+---
+
 |           |                  |               |                     |
 | --------- | ---------------- | ------------- | ------------------- |
 | **Anniversaire** | **Couleur favorite** | **Plat favorit** | **Ananas sur la pizza** |
-| 08/02     | mauve                | Sushis             | &#9744; (unchecked) |
-<----------------------------------------------->
+| 08/02     | mauve                | Sushis             | [] |
+
+---
 
 **Je dirai même plus pour les ananas :**
 ![NO](https://giphy.com/gifs/theoffice-the-office-tv-frame-toby-vyTnNTrs3wqQ0UIvwE)
