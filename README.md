@@ -11,12 +11,13 @@
 |           |                  |               |                     |
 | --------- | ---------------- | ------------- | ------------------- |
 | **Anniversaire** | **Couleur favorite** | **Plat favorit** | **Ananas sur la pizza** |
-| 08/02     | mauve                | Sushis             | [] |
+| 08/02     | #                | Sushis             | [] |
 
 ---
 
 **Je dirai même plus pour les ananas :**
-<img src="https://media.giphy.com/media/vyTnNTrs3wqQ0UIvwE/giphy.gif" alt="Description du GIF">
+<br>
+<img src="https://media.giphy.com/media/vyTnNTrs3wqQ0UIvwE/giphy.gif" alt="gif no">
 
 
 ## Hobbies
@@ -24,11 +25,11 @@
 - La cuisine
 - Le golf
 - Les animés
-    - Futurama
+  - Futurama
 - Gaming
-		- RPG & MMORPG
-		- MOBA
-		- SEA OF THIEVES (Si des marins veulent me rejoindre ?)
+	- RPG & MMORPG
+	- MOBA
+	- SEA OF THIEVES (Si des marins veulent me rejoindre ?)
 
 ### Vous pouvez toujours comptez sur moi quand ...
 
