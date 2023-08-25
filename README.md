@@ -16,7 +16,7 @@
 ---
 
 **Je dirai même plus pour les ananas :**
-![NO](https://giphy.com/gifs/theoffice-the-office-tv-frame-toby-vyTnNTrs3wqQ0UIvwE)
+<img src="https://media.giphy.com/media/vyTnNTrs3wqQ0UIvwE/giphy.gif" alt="Description du GIF">
 
 
 ## Hobbies
