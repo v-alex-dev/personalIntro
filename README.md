@@ -11,9 +11,12 @@
 |           |                  |               |                     |
 | --------- | ---------------- | ------------- | ------------------- |
 | **Anniversaire** | **Couleur favorite** | **Plat favorit** | **Ananas sur la pizza** |
-| 08/02     | Mauve | Sushis             |- [	] |
+| 08/02     | Mauve | Sushis             | &#9744;|
 
 ---
+
+### test
+- [	] uncheck
 
 **Je dirai même plus pour les ananas :**
 <br>
